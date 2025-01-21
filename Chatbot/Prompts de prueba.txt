@@ -1,0 +1,10 @@
+Quiero un gráfico de barras para género
+Quiero un gráfico de dispersión entre duración de estancia y edad, segmentado por género
+Genera un gráfico de barras apiladas que compare los destinos por tipo de alojamiento
+Quiero un gráfico de violín para la duración de estancia por tipo de alojamiento, segmentado por género
+Genera un gráfico de dispersión entre la edad y la duración de estancia, con color por destino y facetas por tipo de alojamiento
+Quiero un gráfico de barras apiladas que muestre los destinos según la presencia de niños
+Genera un gráfico de barras para el tipo de alojamiento
+Quiero un gráfico de violín para la edad por tipo de alojamiento, segmentado por género
+Genera un gráfico de dispersión de duración de estancia vs edad, con tamaño según la presencia de niños y segmentado por destino
+Quiero un gráfico de barras apiladas que compare género por tipo de alojamiento
